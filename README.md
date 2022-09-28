@@ -13,3 +13,4 @@ The application contains hass avocado data that you could download, time series 
 To serve the application locally, use the command:
 streamlit run avocadoApp.py
 
+![image](https://user-images.githubusercontent.com/77316363/192685774-b6217790-5302-492c-a41f-f438063ff081.png)
