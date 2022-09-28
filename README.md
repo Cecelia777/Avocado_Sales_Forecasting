@@ -1,4 +1,4 @@
-# Avocado_Sales_Forecasting
+# Avocado_Sales_Forecasting_Streamlit_App
 
 I love Avocado foe many reasons, it is an awesome nutrient source of vitamins, omega-3 fatty acids, antiocidant and anti-inflammatory compounds; it also has a unique texture, delicaous to the taste combined with anything, etc. You name it :)
 
