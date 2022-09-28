@@ -18,10 +18,10 @@ from datetime import datetime
 from sklearn.metrics import mean_absolute_error
 # %%
 # load datasets
-avocado19 = pd.read_csv('Data/2019-plu-total-hab-data.csv')
-avocado20 = pd.read_csv('Data/2020-plu-total-hab-data.csv')
-avocado21 = pd.read_csv('Data/2021-plu-total-hab-data.csv')
-avocado22 = pd.read_csv('Data/2022-plu-total-hab-data.csv')
+avocado19 = pd.read_csv('2019-plu-total-hab-data.csv')
+avocado20 = pd.read_csv('2020-plu-total-hab-data.csv')
+avocado21 = pd.read_csv('2021-plu-total-hab-data.csv')
+avocado22 = pd.read_csv('2022-plu-total-hab-data.csv')
 
 
 #%%
